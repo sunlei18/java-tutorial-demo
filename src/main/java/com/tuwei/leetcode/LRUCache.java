@@ -1,4 +1,4 @@
-package com.tuwei.test;
+package com.tuwei.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
